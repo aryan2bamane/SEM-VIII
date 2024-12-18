@@ -10,7 +10,7 @@
 </div>
 <br>
 
-#SEM VIII Academic Resources
+# SEM VIII Academic Resources
 
 Welcome to the SEM VIII Academic Resources repository! This repository is your one-stop destination for all the resources you'll need in your final year of B.Tech in Computer Science and Engineering (CSE). Here, you'll find curated materials to help you ace your subjects, prepare for exams, and work on projects effectively.
 
