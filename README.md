@@ -80,10 +80,14 @@ If you have any questions, suggestions, or need further assistance, please feel 
 
 **2. Aditya Madur**
 - Email: adityamadur735@gmail.com
-- GitHub: [Aditya's GitHub](https://github.com/adi-madur)
+- GitHub: [Aditya's GitHub](https://github.com/adimadur)
 
 **3. Aakash Netada**
 - Email: aakashnetada@gmail.com
 - GitHub: [Aakash's GitHub](https://github.com/aakashnetada)
+
+**3. Shweta Kate**
+- Email: kateshweta17@gmail.com
+- GitHub: [Shweta's GitHub](https://github.com/kateshweta)
 
 # Happy Studying!!!
