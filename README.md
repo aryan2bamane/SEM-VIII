@@ -86,7 +86,7 @@ If you have any questions, suggestions, or need further assistance, please feel 
 - Email: aakashnetada@gmail.com
 - GitHub: [Aakash's GitHub](https://github.com/aakashnetada)
 
-**3. Shweta Kate**
+**4. Shweta Kate**
 - Email: kateshweta17@gmail.com
 - GitHub: [Shweta's GitHub](https://github.com/kateshweta)
 
