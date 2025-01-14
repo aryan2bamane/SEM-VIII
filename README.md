@@ -10,7 +10,7 @@
 </div>
 <br>
 
-#SEM VIII Academic Resources
+# SEM VIII Academic Resources
 
 Welcome to the SEM VIII Academic Resources repository! This repository is your one-stop destination for all the resources you'll need in your final year of B.Tech in Computer Science and Engineering (CSE). Here, you'll find curated materials to help you ace your subjects, prepare for exams, and work on projects effectively.
 
@@ -33,8 +33,9 @@ This repository includes resources for the following courses:
 
 1. **Big Data Analytics (PCC - CS801)**
 2. **Deep Learning**
-3. **Mobile Application Development**
-4. **Professional Skills**
+3. **Project Management**
+4. **Blockchain Technology**
+5. **Mobile Application Development**
 
 
 ## Resource Structure
@@ -80,10 +81,14 @@ If you have any questions, suggestions, or need further assistance, please feel 
 
 **2. Aditya Madur**
 - Email: adityamadur735@gmail.com
-- GitHub: [Aditya's GitHub](https://github.com/adi-madur)
+- GitHub: [Aditya's GitHub](https://github.com/adimadur)
 
 **3. Aakash Netada**
 - Email: aakashnetada@gmail.com
 - GitHub: [Aakash's GitHub](https://github.com/aakashnetada)
+
+**4. Shweta Kate**
+- Email: kateshweta17@gmail.com
+- GitHub: [Shweta's GitHub](https://github.com/kateshweta)
 
 # Happy Studying!!!
